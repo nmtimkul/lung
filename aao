@@ -1,4 +1,5 @@
 #!/bin/aao
 
+
 :;<=>?@~{1,...,100} | A<-<Z !
-:;if(!("max TouchPoints" | user-agent | iframe)){/*2001:db8:1:1/32 - 2001:db8:1:2/32*/}
+:;if(!("max TouchPoints" | user-agent | iframe)){/*com.ixquick.mobile | 2001:0db8:1:1/32 - 2001:0db8:1:2/32 | httpbin.org*/}
